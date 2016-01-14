@@ -1,0 +1,61 @@
+body{
+	background-image: url("funny.jpg");
+
+}
+
+h1 {
+	font-family: 'Lobster'
+
+
+}
+
+.rcorners {
+	margin: 10px;
+	float: left;
+	border-radius: 25px;
+	background: #73AD21;
+	padding: 20px;
+	width: 300px;
+	height: 300px;
+
+}	
+
+/*.rcorners2 {
+	margin: 10px;
+	float: left;
+	border-radius: 25px;
+	border: 2px solid #73AD21;
+	padding: 20px;
+	width: 300px;
+	height: 300px;
+
+}
+
+.rcorners3 {
+	margin: 10px;
+	float: left;
+	clear: left;
+    border-radius: 25px;
+ 	border: 2px solid #FF0000;
+ 	background: #FF0000;
+    padding: 20px; 
+    width: 300px;
+    height: 300px;
+
+
+}*/
+
+/*.rcorners4 {
+	margin: 10px;
+	float: left;
+    border-radius: 25px;
+ 	border: 2px solid #ffffff;
+ 	background: #ffffff;
+    padding: 20px; 
+    width: 300px;
+    height: 300px;
+}*/
+
+
+
+

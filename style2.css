@@ -1,0 +1,55 @@
+body {
+	background-image: url("gate.jpeg");
+	background-size: 1400px;
+	background-repeat: none;
+
+}
+
+.nav-wrapper {
+   display: flex;
+   align-content: flex-end;
+   list-style: none;
+
+
+}
+
+.head  h1 {
+    display: flex;
+}
+
+.mission h2 {
+
+	font-family: 'Gloria Hallelujah', cursive;
+	text-align: center;
+	font-size: 30px;
+}
+
+.contact p {
+    display: flex;
+    align-content:flex-end;
+}
+
+.fa{
+    font-size: 30px;
+}
+
+.work {
+
+    margin: 0 auto;
+    display: block;
+    border: 1px solid blue;
+    text-decoration: none;
+    width: 100px;
+    text-align: center;
+    padding: 10px;
+    background-color: transparent;
+
+}
+
+.work a {
+	font-family: 'Shadows Into Light', cursive;
+}
+
+
+
+
